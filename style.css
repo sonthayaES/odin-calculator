@@ -40,6 +40,18 @@
     flex-grow: 1;
     flex-direction: column;
 }
+.function {
+    background-color: rgb(78, 78, 78);
+}
+
+.numbers {
+    background-color: rgb(187, 186, 186);
+}
+
+.operators,
+.equals{
+    background-color: orange;
+}
 
 .top-line{
     display: flex;
